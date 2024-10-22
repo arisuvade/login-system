@@ -1,6 +1,6 @@
 <?php
 $students = [
-    'student1' => [
+    '202211093' => [
         'password' => 'piedad',
         'name' => 'Gerald F. Piedad',
         'age' => 20,
@@ -12,7 +12,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/gerald.jpeg'
     ],
-    'student2' => [
+    '202212043' => [
         'password' => 'mendoza',
         'name' => 'Justin V. Mendoza',
         'age' => 20,
@@ -24,7 +24,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/justin.jpeg'
     ],
-    'student3' => [
+    '202211354' => [
         'password' => 'hernandez',
         'name' => 'Krisitan Lloyd DC. Hernandez',
         'age' => 20,
@@ -36,7 +36,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/kristian.jpeg'
     ],
-    'student4' => [
+    '20210101' => [
         'password' => 'baylon',
         'name' => 'John Philip Baylon',
         'age' => 20,
@@ -48,7 +48,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/philip.jpeg'
     ],
-    'student5' => [
+    '202210328' => [
         'password' => 'gutierrez',
         'name' => 'Daniel Gutierrez',
         'age' => 20,
@@ -60,7 +60,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/daniel.jpeg'
     ],
-    'student6' => [
+    '202210135' => [
         'password' => 'cruz',
         'name' => 'Jun Arvin Cruz',
         'age' => 20,
@@ -72,7 +72,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/arvin.jpeg'
     ],
-    'student7' => [
+    '202210206' => [
         'password' => 'coronel',
         'name' => 'Johanz Coronel',
         'age' => 20,
@@ -84,7 +84,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/johanz.jpeg'
     ],
-    'student8' => [
+    '202210424' => [
         'password' => 'caragos',
         'name' => 'John Kenneth Caragos',
         'age' => 25,
@@ -96,7 +96,7 @@ $students = [
         'institute' => 'IITI',
         'profile_pic' => 'assets/kenneth.jpeg'
     ],
-    'student9' => [
+    '202210227' => [
         'password' => 'morana',
         'name' => 'Jonathan Nikolai Morana',
         'age' => 21,
